@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">teste</string>
+    <string name="weather_title">PREVISÕES CLIMATEMPO</string>
+    <string name="logo_description">Logo Agroclimate</string>
+    <string name="menu_description">Menu</string>
+    <string name="city_hint">Digite a cidade</string>
+    <string name="search_button">Buscar Clima</string>
+    <string name="loading_weather">Loading weather...</string>
+
+</resources>

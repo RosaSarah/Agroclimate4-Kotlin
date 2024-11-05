@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37232126007",
+    "project_id": "teste-9ecd9",
+    "storage_bucket": "teste-9ecd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37232126007:android:f61136b1c99646fa3e77b2",
+        "android_client_info": {
+          "package_name": "edu.curso.teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AfAoZlMN4VRMxuVz2AOuB1HpoHEdcLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
